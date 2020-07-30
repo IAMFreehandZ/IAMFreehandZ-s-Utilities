@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "freehandzs_utilities:block/bedrock_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "freehandzs_utilities:block/bedrock_dimension_portal_ns"
+    }
+  }
+}

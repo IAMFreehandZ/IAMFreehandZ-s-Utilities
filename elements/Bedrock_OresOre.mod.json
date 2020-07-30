@@ -80,17 +80,17 @@
     "inventoryOutSlotIDs": [],
     "inventoryInSlotIDs": [],
     "spawnWorldTypes": [
-      "Surface"
+      "CUSTOM:BedrockDimension"
     ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "Blocks.BEDROCK"
       }
     ],
-    "frequencyPerChunks": 1,
-    "frequencyOnChunk": 2,
+    "frequencyPerChunks": 20,
+    "frequencyOnChunk": 12,
     "minGenerateHeight": 1,
-    "maxGenerateHeight": 5
+    "maxGenerateHeight": 256
   }
 }

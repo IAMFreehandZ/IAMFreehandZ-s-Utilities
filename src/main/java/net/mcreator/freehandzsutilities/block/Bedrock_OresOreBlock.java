@@ -28,6 +28,7 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
+import net.mcreator.freehandzsutilities.world.dimension.BedrockDimensionDimension;
 import net.mcreator.freehandzsutilities.item.Bedrock_OresDustItem;
 import net.mcreator.freehandzsutilities.FreehandzsUtilitiesModElements;
 
@@ -77,7 +78,7 @@ public class Bedrock_OresOreBlock extends FreehandzsUtilitiesModElements.ModElem
 				public boolean place(IWorld world, ChunkGenerator generator, Random rand, BlockPos pos, OreFeatureConfig config) {
 					DimensionType dimensionType = world.getDimension().getType();
 					boolean dimensionCriteria = false;
-					if (dimensionType == DimensionType.OVERWORLD)
+					if (dimensionType == BedrockDimensionDimension.type)
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;
@@ -85,10 +86,10 @@ public class Bedrock_OresOreBlock extends FreehandzsUtilitiesModElements.ModElem
 				}
 			}.withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.create("bedrock_ores_ore", "bedrock_ores_ore", blockAt -> {
 				boolean blockCriteria = false;
-				if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
+				if (blockAt.getBlock() == Blocks.BEDROCK.getDefaultState().getBlock())
 					blockCriteria = true;
 				return blockCriteria;
-			}), block.getDefaultState(), 2)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(1, 1, 1, 5))));
+			}), block.getDefaultState(), 12)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(20, 1, 1, 256))));
 		}
 	}
 }

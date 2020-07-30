@@ -195,6 +195,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bedrock_hoe_recipe"
+    },
+    {
+      "name": "BedrockDimension",
+      "type": "dimension",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_dimension"
+    },
+    {
+      "name": "BedrockBiome",
+      "type": "biome",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_biome"
     }
   ],
   "variable_elements": [],
@@ -212,6 +230,7 @@
       "item.freehandzs_utilities.bedrock_armorlegs": "Bedrock Leggings",
       "item.freehandzs_utilities.bedrock_armorbody": "Bedrock Chestplate",
       "item.freehandzs_utilities.bedrock_pickaxe": "Bedrock Pickaxe",
+      "item.freehandzs_utilities.bedrock_dimension": "Bedrock Flint and Steel",
       "item.freehandzs_utilities.bedrock_hoe": "Bedrock Hoe"
     }
   },
