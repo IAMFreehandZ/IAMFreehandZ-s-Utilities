@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bedrock_sword",
+    "customModelName": "Normal",
+    "name": "Bedrock Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 20,
+    "efficiency": 24.0,
+    "attackSpeed": 5.0,
+    "enchantability": 140,
+    "damageVsEntity": 45.0,
+    "usageCount": 6521,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

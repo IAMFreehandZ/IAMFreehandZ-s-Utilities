@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bedrock_shovel",
+    "customModelName": "Normal",
+    "name": "Bedrock Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 20,
+    "efficiency": 65.0,
+    "attackSpeed": 2.0,
+    "enchantability": 140,
+    "damageVsEntity": 15.0,
+    "usageCount": 6521,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

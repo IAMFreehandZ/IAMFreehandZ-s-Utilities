@@ -1,0 +1,14 @@
+{
+  "block.freehandzs_utilities.bedrock_ores_ore_block": "Block of Bedrock_Ores",
+  "block.freehandzs_utilities.bedrock_ores_ore": "Bedrock_Ores Ore",
+  "item.freehandzs_utilities.bedrock_sword": "Bedrock Sword",
+  "item.freehandzs_utilities.bedrock_ores_dust": "Bedrock_Ores",
+  "item.freehandzs_utilities.bedrock_armorboots": "Bedrock Boots",
+  "item.freehandzs_utilities.bedrock_axe": "Bedrock Axe",
+  "item.freehandzs_utilities.bedrock_armorhelmet": "Bedrock Helmet",
+  "item.freehandzs_utilities.bedrock_shovel": "Bedrock Shovel",
+  "item.freehandzs_utilities.bedrock_armorlegs": "Bedrock Leggings",
+  "item.freehandzs_utilities.bedrock_armorbody": "Bedrock Chestplate",
+  "item.freehandzs_utilities.bedrock_pickaxe": "Bedrock Pickaxe",
+  "item.freehandzs_utilities.bedrock_hoe": "Bedrock Hoe"
+}

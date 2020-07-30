@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bedrock_pickaxe",
+    "customModelName": "Normal",
+    "name": "Bedrock Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 20,
+    "efficiency": 65.0,
+    "attackSpeed": 2.5,
+    "enchantability": 0,
+    "damageVsEntity": 20.0,
+    "usageCount": 6321,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

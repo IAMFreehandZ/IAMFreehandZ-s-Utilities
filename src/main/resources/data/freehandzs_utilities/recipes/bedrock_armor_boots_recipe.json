@@ -1,0 +1,26 @@
+{
+  "group": "freehandzs_utilities",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "freehandzs_utilities:bedrock_ores_ore_block"
+    },
+    "2": {
+      "item": "freehandzs_utilities:bedrock_ores_ore_block"
+    },
+    "3": {
+      "item": "freehandzs_utilities:bedrock_ores_ore_block"
+    },
+    "5": {
+      "item": "freehandzs_utilities:bedrock_ores_ore_block"
+    }
+  },
+  "result": {
+    "item": "freehandzs_utilities:bedrock_armorboots",
+    "count": 1
+  }
+}

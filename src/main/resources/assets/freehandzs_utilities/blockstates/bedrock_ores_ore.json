@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "freehandzs_utilities:block/bedrock_ores_ore"
+    }
+  }
+}

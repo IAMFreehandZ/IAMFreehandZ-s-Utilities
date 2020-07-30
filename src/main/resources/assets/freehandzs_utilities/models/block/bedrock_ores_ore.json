@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "freehandzs_utilities:blocks/bedrock_ores_ore",
+    "particle": "freehandzs_utilities:blocks/bedrock_ores_ore"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 30.84,
+    "cookingTime": 500,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:Bedrock_OresOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Bedrock_OresDust"
+    },
+    "name": "bedrock_ores_ore_smelting",
+    "namespace": "mod"
+  }
+}

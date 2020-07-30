@@ -1,0 +1,235 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Bedrock_OresOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_ores_ore"
+    },
+    {
+      "name": "Bedrock_OresOreBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_ores_ore_block"
+    },
+    {
+      "name": "Bedrock_OresDust",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_ores_dust"
+    },
+    {
+      "name": "Bedrock_OresOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_ores_ore_block_recipe"
+    },
+    {
+      "name": "Bedrock_OresBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_ores_block_ore_recipe"
+    },
+    {
+      "name": "Bedrock_OresOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_ores_ore_smelting"
+    },
+    {
+      "name": "BedrockArmor",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BedrockArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor_helmet_recipe"
+    },
+    {
+      "name": "BedrockArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor_body_recipe"
+    },
+    {
+      "name": "BedrockArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor_leggings_recipe"
+    },
+    {
+      "name": "BedrockArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_armor_boots_recipe"
+    },
+    {
+      "name": "BedrockPickaxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_pickaxe"
+    },
+    {
+      "name": "BedrockAxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_axe"
+    },
+    {
+      "name": "BedrockSword",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_sword"
+    },
+    {
+      "name": "BedrockShovel",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_shovel"
+    },
+    {
+      "name": "BedrockHoe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_hoe"
+    },
+    {
+      "name": "BedrockPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_pickaxe_recipe"
+    },
+    {
+      "name": "BedrockAxeRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_axe_recipe"
+    },
+    {
+      "name": "BedrockSwordRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_sword_recipe"
+    },
+    {
+      "name": "BedrockShovelRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_shovel_recipe"
+    },
+    {
+      "name": "BedrockHoeRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_hoe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.freehandzs_utilities.bedrock_ores_ore_block": "Block of Bedrock_Ores",
+      "block.freehandzs_utilities.bedrock_ores_ore": "Bedrock_Ores Ore",
+      "item.freehandzs_utilities.bedrock_sword": "Bedrock Sword",
+      "item.freehandzs_utilities.bedrock_ores_dust": "Bedrock_Ores",
+      "item.freehandzs_utilities.bedrock_armorboots": "Bedrock Boots",
+      "item.freehandzs_utilities.bedrock_axe": "Bedrock Axe",
+      "item.freehandzs_utilities.bedrock_armorhelmet": "Bedrock Helmet",
+      "item.freehandzs_utilities.bedrock_shovel": "Bedrock Shovel",
+      "item.freehandzs_utilities.bedrock_armorlegs": "Bedrock Leggings",
+      "item.freehandzs_utilities.bedrock_armorbody": "Bedrock Chestplate",
+      "item.freehandzs_utilities.bedrock_pickaxe": "Bedrock Pickaxe",
+      "item.freehandzs_utilities.bedrock_hoe": "Bedrock Hoe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "freehandzs_utilities",
+    "modName": "FreehandZ\u0027s Utilities",
+    "version": "1.0.0",
+    "author": "Mickey, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.freehandzsutilities",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

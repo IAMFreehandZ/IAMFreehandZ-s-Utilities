@@ -1,0 +1,13 @@
+{
+  "group": "freehandzs_utilities",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "freehandzs_utilities:bedrock_ores_ore_block"
+    }
+  ],
+  "result": {
+    "item": "freehandzs_utilities:bedrock_ores_dust",
+    "count": 9
+  }
+}

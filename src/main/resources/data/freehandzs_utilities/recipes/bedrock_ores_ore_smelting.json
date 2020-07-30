@@ -1,0 +1,12 @@
+{
+  "group": "freehandzs_utilities",
+  "type": "minecraft:blasting",
+  "experience": 30.84,
+  "cookingtime": 500,
+  "ingredient": {
+    "item": "freehandzs_utilities:bedrock_ores_ore"
+  },
+  "result": {
+    "item": "freehandzs_utilities:bedrock_ores_dust"
+  }
+}
