@@ -89,7 +89,7 @@ public class Bedrock_OresOreBlock extends FreehandzsUtilitiesModElements.ModElem
 				if (blockAt.getBlock() == Blocks.BEDROCK.getDefaultState().getBlock())
 					blockCriteria = true;
 				return blockCriteria;
-			}), block.getDefaultState(), 12)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(20, 1, 1, 256))));
+			}), block.getDefaultState(), 32)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(32, 1, 1, 256))));
 		}
 	}
 }

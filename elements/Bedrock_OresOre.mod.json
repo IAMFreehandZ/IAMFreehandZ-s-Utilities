@@ -88,8 +88,8 @@
         "value": "Blocks.BEDROCK"
       }
     ],
-    "frequencyPerChunks": 20,
-    "frequencyOnChunk": 12,
+    "frequencyPerChunks": 32,
+    "frequencyOnChunk": 32,
     "minGenerateHeight": 1,
     "maxGenerateHeight": 256
   }
